@@ -2,8 +2,13 @@
 
 
 Меня зовут Инна, я QA Engineer
+Освоила основное в професии и могу работать
+Буду полезна для любого работодателя
+Образование : высшее
+Личные качества: усидчивость,исполнительность, легко обучаема, желание развиваться в профессии.
 
-## 📊 Статистика
+
+## 📊 Статистика 
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&theme=outrun&username=InnaZmt)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=8&hide_progress=true&theme=outrun&username=InnaZmt)
