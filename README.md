@@ -92,6 +92,7 @@
 
 ## 🎒 Образование
 [<img src="/Certificate%20QA%20EngineeringNew.png.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/InnaZmt/InnaZmt/refs/heads/main/Certificate%20QA%20EngineeringNew.png.png)
+[<img src="/Certificate%20QA%20EngineeringNew.png.png" width="280px" hspace="10px" alt="Рекомендация»">](https://raw.githubusercontent.com/InnaZmt/InnaZmt/refs/heads/main/Recommendation.png)
 
 
 <br>
